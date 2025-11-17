@@ -6,7 +6,7 @@ Focused on building models, optimizing algorithms, and ML systems.
 ### 🛠️ Tech Stack
 
 **Languages**  
-C++ • C • Java • Python • R • Kotlin
+C++ • C • Python • R • Kotlin • Java
 
 **AI / Machine Learning**  
 PyTorch • TensorFlow • scikit-learn • XGBoost • LightGBM • mlflow  
