@@ -20,4 +20,5 @@ Google Cloud (GCP) • Firebase • Vercel • Cloud Run • Vertex AI
 
 **Dev Tools**  
 GitHub Actions • GitLab CI • Selenium • Testing-Library • GraphQL • Postman
+
 ---
