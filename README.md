@@ -1,4 +1,4 @@
-AI/ML engineering & algorithm enthusiast.  
+AI/ML engineering & LeetCode enthusiast.  
 Focused on building models, optimizing algorithms, and ML systems.
 
 ---
