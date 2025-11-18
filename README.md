@@ -1,3 +1,5 @@
+Vice President of Internal Affairs of iACADEMY COMPILE! 
+
 AI/ML engineering & LeetCode enthusiast.  
 Focused on building models, optimizing algorithms, and ML systems.
 
@@ -22,3 +24,5 @@ Google Cloud (GCP) • Firebase • Vercel • Cloud Run • Vertex AI
 GitHub Actions • GitLab CI • Selenium • Testing-Library • GraphQL • Postman
 
 ---
+
+YES I KNOW MY REPOS ARE PRIVATE!
